@@ -43,10 +43,10 @@
 
 <header>
     <div class="brand">
-        <div class="brand-mark">QL</div>
+        <div class="brand-mark">H</div>
         <div class="brand-text">
-            <div class="title">Quản lý Sinh viên</div>
-            <div class="sub">Hệ thống học vụ</div>
+            <div class="title">HUCE.Web</div>
+            <div class="sub">QUẢN LÝ SINH VIÊN</div>
         </div>
     </div>
 
